@@ -10,8 +10,3 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dvdthedev)
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvdthedev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-## Most used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvdthedev&size_weight=0.5&count_weight=0.5)
