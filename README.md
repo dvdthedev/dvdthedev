@@ -10,7 +10,7 @@
 
 ![About Me](https://img.shields.io/badge/about--me-000000?style=for-the-badge&logo=aboutme&logoColor=white)
 
-Olá! Sou o Deivid. Atualmente foco no desenvolvimento de soluções robustas utilizando o ecossistema **Java**. Tenho experiência com arquitetura de microserviços, APIs RESTful e integração com serviços de nuvem na **Oracle Cloud Infrastructure (OCI)**.
+Olá! Sou o Deivid. Atualmente foco no desenvolvimento de soluções utilizando o ecossistema **Java**. Tenho experiência com arquitetura de microserviços, APIs RESTful e integração com serviços de nuvem na **Oracle Cloud Infrastructure (OCI)**.
 
 **Current Project:** API de pedidos para a empresa Padaria Tradição <br>
 **Learning:** Testes unitários (JUnit/Mockito), JavaScript e React <br>
